@@ -1,1 +1,12 @@
-hi
+Industry 4.0 refers to the physical cyber systems connected in a network to work together. Smart connected machines (internet of Things) and robots (Robotics) are used to carry out the desired outputs. Authors identify risks into six categories [1].     
+ Since technology is evolving, the number of threats is also increasing. One of these risks is data privacy and security. Equifax data breach is one of the biggest data breaches in which the data of hundreds of millions of people was stolen. It took lots of time and budget to fix the damage and build a strong security system [2].  
+Technical risks include not having the latest devices/software that leads to the limited working capabilities for a system. Most common cause of this is not to not upgrading or patching the software timely, “Cloudbleed” breach happened due to not fixing a bug inside the system, which resulted in exposing the sensitive data. Fixing the bug on time could eliminate this problem before it happened [3]. It is recommended to upgrade/patch the system in time to eliminate any potential threats.  
+Another article by Ahmet Ali Süzen (A Risk-Assessment of Cyber Attacks and Defense Strategies in Industry 4.0 Ecosystem, 2020) supports the points made by the authors for data security risks assessment and gives brief defensive solutions to those issue [4]. 
+ 
+References: 
+[1]. Kovaitė, K. S. (2019). Risks of digitalisation of business models. Contemporary Issues in Business, Management and Economics Engineering, 10.3846/cibmee.2019.039. 
+[2]. Zack, W. [2018]. Equifax breach was ‘entirely preventable’ had it used basic security measures, says House report [online] available at: https://techcrunch.com/2018/12/10/equifax-breach-preventable-house-oversight-report/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJn4n5Pu8Jg9sn6j0_Y9ipiKHFRo8vO6o7h4JJxhH79qLdL02Gmi7A0Y-hG9o5vpKCn-Egxh0NWu_TfYdNmyLI1EsBXrTFv6b4Z_Nlg2_0sP67F5EKSgu1cS2MUA68INthoQDjMqp_YazzN18MkitJrSw_taiCP6HFJg1h_zzsHs 
+[3]. Graham, J, W. [2017]. Incident report on memory leak caused by Cloudflare parser bug [online] available at: https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug 
+[4]. Süzen, A. A. (2020). A Risk-Assessment of Cyber Attacks and Defense Strategies in Industry 4.0 Ecosystem 
+
+
